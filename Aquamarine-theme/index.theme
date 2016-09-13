@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Aquamarine
+Comment=A aquamarine color theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Aquamarine
+MetacityTheme=Aquamarine
+ButtonLayout=:minimize,maximize,close
